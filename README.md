@@ -1,10 +1,8 @@
-👍
-
-🏧 ATM System — Python OOPS Project
+ATM System — Python OOPS Project
 
 This project is a simple ATM simulation program built using Object-Oriented Programming (OOPS) in Python. It models real-world banking operations like balance checking, cash withdrawal, and deposit using classes, objects, and methods.
 
-✨ Features
+# Features
 
 User login with PIN authentication
 
@@ -18,7 +16,7 @@ Transaction handling using class methods
 
 Secure account data using encapsulation
 
-🧩 OOPS Concepts Used
+# OOPS Concepts Used
 
 Class & Object — Models real ATM and account behavior
 
@@ -28,7 +26,7 @@ Inheritance (optional, if extended)
 
 Abstraction / Polymorphism (if used in your design)
 
-🚀 How to Run
+# How to Run
 
 Install Python (3.x recommended)
 
@@ -43,7 +41,7 @@ python atm.py
 
 (or replace with your main file name)
 
-📂 Project Structure
+# Project Structure
 ATM-Project/
  ├── atm.py
  ├── account.py
@@ -52,6 +50,6 @@ ATM-Project/
 
 (Update names as per your files)
 
-🎯 Purpose
+# Purpose
 
 This project demonstrates how real-life systems can be implemented using OOPS in Python in a simple and practical way — great for students and beginners.
